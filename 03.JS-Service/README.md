@@ -45,3 +45,12 @@ We can create a new JS Service with the ares-generate command. In this example, 
 ares-generate -t js_service -s com.sample.helloworldservice HelloWorldService
 ```
 We will use this JS Service in the later section, "04.WebOS-TV-Sample-Apps"
+
+## JS Service Template
+The webOS TV platform provides templates for JS service.
+<br/>HelloWorldService follows this template.
+| Directory / File | Description |
+| ------ | ------ |
+|helloworld_service.js|The sample JS service code that provides several simple commands. These commands are specified in the services.json file to use them.|
+|package.json|The configuration file of NPM.|
+|services.json|The configuration file defines what commands the service provides on the webOS bus.|
