@@ -1,15 +1,18 @@
 # WebOS-TV-Sample-Apps
 In this section, we will observe a few sample WebOS-TV apps to see what kind of features we can implement in our apps. The apps we will cover are given as bellow.
 * AppLifeCycle https://github.com/webOS-TV-app-samples/AppLifecycle
-* Remote Control & Back Button Control https://github.com/webOS-TV-app-samples/BackButtonControl,  https://github.com/webOS-TV-app-samples/RemoteControl
+* Remote Control https://github.com/webOS-TV-app-samples/RemoteControl
+* Back Button Control https://github.com/webOS-TV-app-samples/BackButtonControl
 * Hello World Service(webOS TV service) https://github.com/webOS-TV-app-samples/HelloWorldService
 * Luna Service https://github.com/webOS-TV-app-samples/LunaService
-* Database & Web Storage https://github.com/webOS-TV-app-samples/DB8, https://github.com/webOS-TV-app-samples/WebStorage
+* Database https://github.com/webOS-TV-app-samples/DB8
+* Web Storage https://github.com/webOS-TV-app-samples/WebStorage
 
-We will focus on how the feature is implemented, rather than the entire structure of the code.
+We will focus on how the WebOS feature is implemented, rather than the entire structure of the sample app.
 
 ## AppLifeCycle
 The app lifecycle for WebOS TV app can be explained based on the possible states of an app and transitions between them.
+![image](https://github.com/youngheoncho/webos-hackathon/assets/111717000/2536801c-1563-47d0-95be-2c65841956bc)
 <br/>The sample app shows how we can handle these events.
 
 ### webOSLaunch Event
@@ -70,7 +73,10 @@ document.addEventListener(
 );
 ```
 
-## Remote Control & Back Button Control
+## Remote Control
+
+## Back Button Control
 ## Hello World Service(WebOS TV service)
 ## Luna Service
-## Database & Web Storage
+## Database
+## Web Storage
