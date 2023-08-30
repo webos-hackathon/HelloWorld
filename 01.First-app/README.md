@@ -4,7 +4,7 @@ This guide will go through the procedures necessary to build your first TV app
 ## Prerequisite
 follow the instructions of the guide below to install the necessary tools
 * CLI(command line interface) https://webostv.developer.lge.com/develop/tools/cli-installation : Interface providing collection of commands used for creating, packaging, installing, and launching web apps
-* webOS TV Simulator https://webostv.developer.lge.com/develop/tools/simulator-installation : Simulator for launching app in PC
+* WebOS TV Simulator https://webostv.developer.lge.com/develop/tools/simulator-installation : Simulator for launching app in PC
 * Developer Mode App https://webostv.developer.lge.com/develop/getting-started/developer-mode-app : TV app to help install your app. Requires LG account.
 
 follow the guide below to prepare an LG account.
@@ -13,7 +13,7 @@ https://webostv.developer.lge.com/develop/getting-started/preparing-lg-account
 ## Building your first app
 
 ### 1. Create an app with CLI
-1. Download and install webOS TV CLI.
+1. Download and install WebOS TV CLI.
 2. Create a new app with the ares-generate command. With this example, you will use a template named basic to generate a new app.
 ```
 ares-generate -t basic ./sampleApp
@@ -22,7 +22,7 @@ ares-generate -t basic ./sampleApp
 If the app is successfully generated, you will see Success.
 
 ### 2. Launch app on the simulator
-1. Download and install the webOS TV Simulator.
+1. Download and install the WebOS TV Simulator.
 2. Launch your app on the simulator with the area-launch command.
 ```
 ares-launch -s 23 ./sampleApp

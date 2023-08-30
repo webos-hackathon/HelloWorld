@@ -1,0 +1,9 @@
+{
+  "id": "com.sample.lunaservice",
+  "version": "1.0.0",
+  "type": "web",
+  "main": "index.html",
+  "title": "Sample App for Luna service",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
