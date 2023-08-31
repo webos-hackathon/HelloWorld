@@ -43,12 +43,30 @@ The WebOS TV CLI provides the appinfo.json file template as below.
         "icon": "icon.png",
         "largeIcon": "largeIcon.png"
     }
+The following properties are mandatory for appinfo.json
+| property | Description |
+| ------ | ------ |
+|id|String type. Specify your app ID.|
+|title|Specify the app title to be shown on the Launcher and the app window.|
+|type|Specify your app type. Only web is allowed currently.|
+|main|Specify the launch point for your app. The file path must be relative to the appinfo.json file and needs to point to an HTML file.|
+|icon|Specify the small icon file of your app, 80x80 pixels in PNG format.The file path must be relative to the appinfo.json file.|
+|version|Specify your app version number, comprised of three non-negative integers separated by period.|
 
-## App-Resources
+The following properties are optional for appinfo.json
+| property | Description |
+| ------ | ------ |
+|vendor|Specify your app owner to be used in the launcher and deviceinfo dialogs.|
+|largeIcon|Specify your large icon file of your app, 130x130 pixels in PNG format. The file path must be relative to the appinfo.json file.|
 
 ## App Debugging
+### Debugging with simulator
+Simulator is provided with an inspector, which is launched automatically when the app is run.
+<br/>In the simulator, go to Tools - Inspector.
+### Debugging app on TV
+The webOS TV platform supports Web Inspector for debugging web apps. Web Inspector monitors your app running on a target device with the execution information. Web Inspector uses the Chromium browser as a default browser.
 
 ## Reference
-https://webostv.developer.lge.com/develop/getting-started/app-template
-https://webostv.developer.lge.com/develop/getting-started/app-resources
-https://webostv.developer.lge.com/develop/getting-started/app-debugging
+* https://webostv.developer.lge.com/develop/getting-started/app-template
+* https://webostv.developer.lge.com/develop/getting-started/app-resources
+* https://webostv.developer.lge.com/develop/references/appinfo-json
