@@ -7,6 +7,7 @@ In this section, we will observe a few sample WebOS-TV apps to see what kind of 
 * Web Storage https://github.com/webOS-TV-app-samples/WebStorage
 
 We will focus on how the WebOS feature is implemented, rather than the entire structure of the sample app.
+Please refer to each directory of the sample app.
 
 ## Reference
 Refer to the following link for more examples.

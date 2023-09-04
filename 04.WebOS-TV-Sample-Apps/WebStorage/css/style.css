@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Miso";
+  src: local("/font/miso.otf");
+}
+
+body {
+  font-family: "Miso", serif;
+  width: 100%;
+  height: 100%;
+  background-color: #202020;
+}
+
+div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: table;
+  font-size: 60px;
+  color: #ffffff;
+}
+
+lg_red {
+  color: #d80546;
+}
+
+button {
+  height: 80px;
+  font-size: 60px;
+}
