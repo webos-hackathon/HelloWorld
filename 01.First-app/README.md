@@ -28,7 +28,7 @@ If the app is successfully generated, you will see Success.
 ares-launch -s 23 ./sampleApp
 ```
 If the app is successfully launched, you will see Hello, World! on the simulator.
-![](http://mod.lge.com/hub/youngheon.cho/webos-hackerthon/-/raw/main/01.first-web-app/images/hello_world.png)
+![](https://github.com/youngheoncho/webos-hackathon/blob/main/01.First-app/images/hello_world.png?raw=true)
 
 ### 3. Package, install, and launch the app on a TV device
 
@@ -47,7 +47,7 @@ Launch the app on the TV device with the area-launch command.
 ares-launch -d myTV com.domain.app
 ```
 If the app is successfully launched, you will see Hello, World! on the TV device.
-![](http://mod.lge.com/hub/youngheon.cho/webos-hackerthon/-/raw/main/01.first-web-app/images/hello_world.png)
+![](https://github.com/youngheoncho/webos-hackathon/blob/main/01.First-app/images/hello_world.png?raw=true)
 
 ### 4. Create an hosted web app
 A basic web app(or packaged webapp) like the one we created in section 1."Create an app with CLI" is provided as a complete package.
