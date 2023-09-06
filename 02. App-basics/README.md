@@ -3,7 +3,6 @@ In this guide, we will look into the basic structure of an WebOS TV app.<br/>
 We will also look into how developers can debug the app.<br/>
 This guide will cover the following materials:
 * App-Templates
-* App-Resources
 * App Debugging
 
 ## App-Templates
