@@ -1,5 +1,5 @@
 # WebOS-TV-Sample-Apps
-In this section, we will observe a few sample WebOS-TV apps to see what kind of features we can implement in our apps. The apps we will cover are given as bellow.
+In this section, we will observe a few sample WebOS-TV apps to see what kind of features we can implement in our apps. The apps we will cover are given as below.
 * AppLifeCycle https://github.com/webOS-TV-app-samples/AppLifecycle
 * Remote Control https://github.com/webOS-TV-app-samples/RemoteControl
 * Back Button Control https://github.com/webOS-TV-app-samples/BackButtonControl
