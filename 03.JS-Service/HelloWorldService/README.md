@@ -34,5 +34,5 @@ ares-install -d myTV com.sample.helloworld_0.0.1_all.ipk
 ```
 3. Launch the app in your TV device
 ```
-ares-launch -d myTV com.domain.app
+ares-launch -d myTV com.sample.helloworld
 ```
