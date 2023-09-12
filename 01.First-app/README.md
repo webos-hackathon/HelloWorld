@@ -32,9 +32,9 @@ If the app is successfully launched, you will see Hello, World! on the simulator
 
 ### 3. Package, install, and launch the app on a TV device
 
-1. Package the app in the sampleApp directory with the 
+1. Package the app in the sampleApp directory with the ares-package command.
+
 ```
-ares-package command.
 ares-package ./sampleApp
 ```
 If packaging is successful, you can see the created package (.ipk) file in the current working directory.
