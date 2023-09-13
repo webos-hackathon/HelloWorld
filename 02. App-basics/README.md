@@ -30,7 +30,7 @@ The hosted web app created in "01.First-app" consists of the following directory
 
 ### Web app info
 The web app info template provides an appinfo.json file with sample values. The appinfo.json file holds the app's name, ID, app type, icon image, and the main page information to the file.<br/>
-The WebOS TV CLI provides the appinfo.json file template as below.
+appinfo.json for the WebOS-TV apps created with CLI follow this template. Here is an example.
 
     {
         "id": "com.domain.app",
