@@ -65,6 +65,12 @@ Simulator is provided with an inspector, which is launched automatically when th
 ### Debugging app on TV
 The webOS TV platform supports Web Inspector for debugging web apps. Web Inspector monitors your app running on a target device with the execution information. Web Inspector uses the Chromium browser as a default browser.
 
+To run web inspector for your app, use the ares-inspect command. For example,
+```
+ares-inspect --device tv1 com.domain.app
+```
+App will start running on your TV and you will recieve a address where the inspector is run.
+
 ## Reference
 * https://webostv.developer.lge.com/develop/getting-started/app-template
 * https://webostv.developer.lge.com/develop/getting-started/app-resources
