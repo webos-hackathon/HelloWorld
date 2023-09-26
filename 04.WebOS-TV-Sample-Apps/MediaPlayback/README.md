@@ -8,3 +8,4 @@ You can install the sample app and see the results in the webOS TV or webOS TV S
 ## References
 * Media Source Extensions https://www.w3.org/TR/media-source/#introduction
 * HLS vs DASH https://www.wowza.com/blog/hls-vs-dash
+* Shaka Player https://github.com/shaka-project/shaka-player
