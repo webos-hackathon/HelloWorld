@@ -5,6 +5,6 @@ This sample app shows how to implement media playback in a web app. This sample 
 You can install the sample app and see the results in the webOS TV or webOS TV Simulator as in the following image.
 ![com.sample.mediaplayer.PNG](screenshots/com.sample.mediaplayer.PNG)
 
-## Do's and Don'ts
-- **Do** test this sample app on the webOS TV devices or webOS TV Simulator.
-- **Don't** test this sample app on the webOS TV Emulator 4.0 or lower, because they do not support HLS.
+## References
+* Media Source Extensions https://www.w3.org/TR/media-source/#introduction
+* HLS vs DASH https://www.wowza.com/blog/hls-vs-dash
