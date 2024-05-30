@@ -1,4 +1,4 @@
-# WebOS-Hackathon
+# WebOS-Hackathon-2024
 The webinar for WebOS-Hackathon will begin with a breif introduction of WebOS-TV and WebOS architecture.
 We will then go through the basics of web apps & Javascript service. We will conclude after introducing a few sample apps that particiapants may refer to in their projects.
 
