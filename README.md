@@ -1,12 +1,12 @@
-# webOS-Hackathon-2024
+# webOS Hackathon 2024
 
-Join us for the webOS-Hackathon webinar, where we will introduce the fundamentals of webOS-TV and its architecture. We will cover the basics of web apps and JavaScript services, concluding with a few sample apps that participants can use as references for their projects.
+Register webOS Hackathon 2024 and join us for the webOS Hackathon webinar, where we will introduce the fundamentals of webOS TV and its architecture. We will cover the basics of web apps and JavaScript services, concluding with a few sample apps that participants can use as references for their projects.
 
 For more information, visit our [webOS Hackathon Website](http://weboshackathon.lge.com).
 
-## What is webOS-TV?
+## What is webOS TV?
 
-webOS-TV is a web-centric smart TV platform that has powered LG Smart TVs for over a decade. Renowned for its reliable and stable performance globally, webOS-TV has proven its potential as a leading player in the competition among Linux-based smart display platforms.
+webOS TV is a web-centric smart TV platform that has powered LG Smart TVs for over a decade. Renowned for its reliable and stable performance globally, webOS TV has proven its potential as a leading player in the competition among Linux-based smart display platforms.
 
 ![webOS-TV](https://github.com/youngheoncho/webos-hackathon/assets/111717000/87b55e8a-f9bc-42c9-b0c9-ef00817c33f3)
 
