@@ -6,7 +6,7 @@ We will create a basic web app(packaged web app) & hosted web app
 ### Basic web app
 It is the most basic type of an app for webOS TV, and it can be referred to as a packaged web app as it is provided as a package.
 
-You sumbit the package of your app where all the resources are included, and when a user downloads the package and installs the app, the resources will also be installed in their device. So when there is a change to the package, code or resources, you need to submit a new package with the change.
+You submit the package of your app where all the resources are included, and when a user downloads the package and installs the app, the resources will also be installed in their device. So when there is a change to the package, code or resources, you need to submit a new package with the change.
 
 ![image](https://github.com/youngheoncho/webos-hackathon/assets/111717000/0bee5961-cc9e-4385-9be7-a9a6a9e7637a)
 
@@ -36,9 +36,7 @@ follow the instructions of the guide below to install the necessary tools
 
 * WebOS TV Simulator https://webostv.developer.lge.com/develop/tools/simulator-installation : Simulator for launching app in PC
 * Developer Mode App https://webostv.developer.lge.com/develop/getting-started/developer-mode-app : TV app to help install your app. Requires LG account.
-
-follow the guide below to prepare an LG account.
-https://webostv.developer.lge.com/develop/getting-started/preparing-lg-account
+To create an LG account, click SIGN IN on the top right corner from the webostv developer site and go to create account.
 
 ## Building your first app
 
@@ -55,7 +53,7 @@ If the app is successfully generated, you will see Success.
 1. Download and install the WebOS TV Simulator.
 2. Launch your app on the simulator with the area-launch command.
 ```
-ares-launch -s 23 ./sampleApp
+ares-launch -s 24 ./sampleApp
 ```
 If the app is successfully launched, you will see Hello, World! on the simulator.
 ![](https://github.com/youngheoncho/webos-hackathon/blob/main/01.First-app/images/hello_world.png?raw=true)
