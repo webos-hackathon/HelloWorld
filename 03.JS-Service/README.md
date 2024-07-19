@@ -13,6 +13,7 @@ npm -v // check npm version
 WebOS TV supports the different versions of Node.js core modules depending on the WebOS TV platform version as below.
 | WebOS TV platform version	| Node.js version |
 | ------ | ------ |
+| WebOS TV 24	| v16.19.1 |
 | WebOS TV 23	| v12.22.2 |
 | WebOS TV 22 | v12.21.0 |
 | WebOS TV 6.0 |	v12.14.1 |
